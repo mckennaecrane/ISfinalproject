@@ -1,0 +1,45 @@
+body {
+    background-color: tan;
+    color: aliceblue;
+    /*text color*/
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+h1 {
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+}
+
+h5 {
+    text-align: center;
+    font-style: italic;
+}
+
+a {
+    color: blalck;
+}
+
+a:visited {
+    color: black;
+}
+
+img {
+    border: 2px solid white;
+    padding: 3px;
+    margin: 5px;
+    /*centers images/stuff*/
+    display: block;
+    margin: auto;
+}
+.rizz{
+    font-family: fantasy;
+    font-weight: 200;
+    font-stretch: expanded;
+    font-size: larger;
+}
+/* li:hover{
+    text-decoration:overline;
+} */
+href{
+ color: black;
+}

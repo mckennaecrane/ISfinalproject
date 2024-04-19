@@ -1,0 +1,22 @@
+body{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.mb-3{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: white !important;
+    font-weight: bold;
+    font-size:larger
+}
+.notyellow{
+    color: black !important;
+}
+.intro-text{
+    box-shadow: 15px 15px 20px rgba(0, 0, 0, 0.5);
+}
+.section-heading-lower{
+    box-shadow: 15px 15px 20px rgba(0, 0, 0, 0.5);
+}
+.mb-0{
+    color: black;
+    text-decoration: none !important
+}
